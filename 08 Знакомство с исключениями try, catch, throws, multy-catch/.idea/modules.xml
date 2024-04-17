@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/08 Знакомство с исключениями try, catch, throws, multy-catch.iml" filepath="$PROJECT_DIR$/08 Знакомство с исключениями try, catch, throws, multy-catch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task0902/task0902.iml" filepath="$PROJECT_DIR$/task0902/task0902.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task0911/task0911.iml" filepath="$PROJECT_DIR$/task0911/task0911.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task0912/task0912.iml" filepath="$PROJECT_DIR$/task0912/task0912.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task0915/task0915.iml" filepath="$PROJECT_DIR$/task0915/task0915.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task0917/task0917.iml" filepath="$PROJECT_DIR$/task0917/task0917.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task0918/task0918.iml" filepath="$PROJECT_DIR$/task0918/task0918.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task0921/task0921.iml" filepath="$PROJECT_DIR$/task0921/task0921.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task0922/task0922.iml" filepath="$PROJECT_DIR$/task0922/task0922.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task0923/task0923.iml" filepath="$PROJECT_DIR$/task0923/task0923.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task0926/task0926.iml" filepath="$PROJECT_DIR$/task0926/task0926.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task0927/task0927.iml" filepath="$PROJECT_DIR$/task0927/task0927.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task0929/task0929.iml" filepath="$PROJECT_DIR$/task0929/task0929.iml" />
+    </modules>
+  </component>
+</project>
